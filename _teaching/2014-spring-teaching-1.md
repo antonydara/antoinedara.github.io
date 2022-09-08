@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Molecular Biology"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Pharmacy course"
+permalink: /teaching/Second semester
+venue: "Faculty of Pharmacy, University des Sciences, des Techniques et des Technologies de Bamako"
+date: 2018-present
+location: "Bamako, Mali"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course is intended to second year Pharmacy students.
 
 Heading 1
 ======
