@@ -3,7 +3,7 @@ title: "Molecular Biology"
 collection: teaching
 type: "Pharmacy course"
 permalink: /teaching/Second semester
-venue: "Faculty of Pharmacy, University des Sciences, des Techniques et des Technologies de Bamako"
+venue: "Faculty of Pharmacy, Université des Sciences, des Techniques et des Technologies de Bamako"
 date: 2018-present
 location: "Bamako, Mali"
 ---
