@@ -13,6 +13,7 @@ Education
 ======
 * Doctor in Pharmacy, University of Bamako,Mali, 2009
 * PhD in Molecular Microbiology and Immunology, University of Maryland Baltimore,USA 2017
+  * Supervisor: Dr Christopher V Plowe
 
 
 Work experience
