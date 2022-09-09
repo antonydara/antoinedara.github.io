@@ -4,7 +4,7 @@ collection: teaching
 type: "Pharmacy course"
 permalink: /teaching/Second semester
 venue: "Faculty of Pharmacy, Université des Sciences, des Techniques et des Technologies de Bamako"
-date: 2018
+date: 2018-06-6
 location: "Bamako, Mali"
 ---
 
