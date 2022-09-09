@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor in Pharmacy, University of Bamako,Mali, 2009
+* PhD in Molecular Microbiology and Immunology, University of Maryland Baltimore,USA 2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2018: Post doctoral fellow at the University of Maryland Baltimore
+  * Supervisor: Dr Miriam Laufer
+* 2018-2020: Post doctoral fellow at the University of Science, Techniques and Technologies of Bamako
+  * Supervisor: Prof Abdoulaye Djimde
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2022: Assistant Professor of Molecular Biology
+* 2022: Associate Professor of Molecular Biology and Bioinformatics
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming in Python
+* Programming in R
+* Perl, bash
 
 Publications
 ======
