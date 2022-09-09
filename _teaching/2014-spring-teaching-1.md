@@ -6,19 +6,19 @@ permalink: /teaching/Second semester
 venue: "Faculty of Pharmacy, Université des Sciences, des Techniques et des Technologies de Bamako"
 date: 2018-present
 location: "Bamako, Mali"
----
-
-The course is intended to second year Pharmacy students.
 
 ---
-title: "Bioinformatics"
+title: "Molecular Biology"
 collection: teaching
-type: "Master students"
+type: "Pharmacy course"
 permalink: /teaching/Second semester
 venue: "Faculty of Pharmacy, Université des Sciences, des Techniques et des Technologies de Bamako"
 date: 2018-present
 location: "Bamako, Mali"
 ---
+
+The course is intended to second year Pharmacy students.
+
 
 Heading 1
 ======
