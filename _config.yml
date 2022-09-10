@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome to Antoine's faculty profile"
 title_separator          : "-"
-name                     : &"Antoine Dara, PharmD, PhD"
+name                     : &name "Antoine Dara, PharmD, PhD"
 description              : &description "Associate Professor of Molecular Biology and Bioformatics"
 url                      : https://antonydara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
