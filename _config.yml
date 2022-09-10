@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome to Antoine's faculty profile"
 title_separator          : "-"
-name                     : &name "Antoine Dara, PharmD, PhD"
+name                     : &"Antoine Dara, PharmD, PhD"
 description              : &description "Associate Professor of Molecular Biology and Bioformatics"
 url                      : https://antonydara.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Antoine Dara | Tony "
   avatar           : "photo_id_bio.jpg"
-  bio              : "I am an Associate Professor of Molecular Biology and Bioinformatics Faculty of Pharmacy of the University of Science, Techniques and Technologies of Bamako, Mali. Currently, my research focus on gaining insights into malaria parasite-host interactions and understanding mechanisms of malaria pathogenesis and malaria parasite resistance to antimalarial drugs. My work also includes study the genomic epidemiology of the SARS-CoV-2. I use genomics and bioinformatics as tools to address my research questions."
+  bio              : "Associate Professor of Molecular Biology and Bioinformatics Faculty of Pharmacy of the University of Science, Techniques and Technologies of Bamako, Mali."  # Currently, my research focus on gaining insights into malaria parasite-host interactions and understanding mechanisms of malaria pathogenesis and malaria parasite resistance to antimalarial drugs. My work also includes study the genomic epidemiology of the SARS-CoV-2. I use genomics and bioinformatics as tools to address my research questions."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1Z95tLO5BPOQi/bibliography/public/"
