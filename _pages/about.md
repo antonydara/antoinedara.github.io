@@ -27,12 +27,13 @@ Bioinformatics course
 
 Research activities
 ------
-*Malaria
-*COVID-19 genomics
+1.Malaria
+1.COVID-19 genomics
 
 Genomics laboratory
 ------
 The genomics lab at the MRTC-Parasito is equipped with capital instruments including an Illumina MiSeq, a SeqStudio, a Nanopore MinION Mk1C, a 10X Genomics Chromium Controller for single cell sequencing, a TapeStation 4200 
+(/images/IMG_20220907_165739_686.jpg)
 
 Library preparation for Nanopore sequencing
 ![Editing a markdown file for a talk](/images/IMG_20220907_165739_686.jpg)
